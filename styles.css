@@ -191,8 +191,10 @@ header a:hover{
 }
 
 footer{
-    padding: 20px;
-    margin-top: 20px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
     color: #ffffff;
     background-color: #200d38;
     text-align: center;
@@ -334,4 +336,4 @@ article#main-col{
     width: 65%;
 }
 
-/* picture lightbox */
+/* footer fixed */
