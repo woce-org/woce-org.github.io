@@ -337,7 +337,7 @@ article#main-col{
 }
 
 /* footer fixed */
-@media screen and (max-width:640px) {
+@media screen and (max-width:240px) {
     .circular--square img {
         width: 100% !important;
         height: auto !important;
